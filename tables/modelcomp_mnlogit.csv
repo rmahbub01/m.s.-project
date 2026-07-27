@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_weighted,roc_auc_macro
+Multinomial Logistic Regression,0.4419047619047619,0.2795735785603846,0.39630588927738886,0.7154695718899737
